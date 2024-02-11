@@ -1,8 +1,5 @@
-# ENS
+# ENSME
 
-[![Build Status](https://travis-ci.org/ensdomains/ens-contracts.svg?branch=master)](https://travis-ci.org/ensdomains/ens-contracts)
-
-For documentation of the ENS system, see [docs.ens.domains](https://docs.ens.domains/).
 
 ## npm package
 
